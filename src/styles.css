@@ -1,0 +1,36 @@
+.container {
+  background-color: #f6f5f8;
+  margin-bottom: 100px;
+}
+.imgqty {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+.images {
+  display: flex;
+  gap: 30px;
+}
+.middle {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: baseline; */
+}
+.total {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
+hr {
+  width: 80%;
+  color: rgb(205, 202, 202);
+}
+button {
+  border: none;
+  color: #d68970;
+}
+.qtys {
+  display: flex;
+  align-items: baseline;
+  gap: 30px;
+}
